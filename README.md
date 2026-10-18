@@ -185,4 +185,14 @@ Type `exit` to stop the application.
 
 ## Project Goal
 
-The goal of this project is to develop a practical
+The goal of this project is to develop a practical Retrieval-Augmented Generation system from the ground up and gradually evolve it into an AI Agent capable of document retrieval, web search, calculations, and database interactions.
+
+This project is also intended to strengthen practical skills in AI engineering, local LLM deployment, vector databases, semantic search, and backend development.
+
+Development Status
+
+Version 0.1 — Local RAG Prototype
+
+The initial command-line RAG pipeline has been implemented and tested with a PDF document.
+
+The next milestone is to build a FastAPI backend with document upload and question-answering endpoints.
