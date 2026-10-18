@@ -171,14 +171,14 @@ Type `exit` to stop the application.
 
 ## Future Improvements
 
-- [ ] Implement FastAPI backend
-- [ ] Add PDF upload endpoint
-- [ ] Add question-answering API
-- [ ] Support multiple uploaded documents
-- [ ] Add page-level citations and source references
+- [x] Implement FastAPI backend
+- [x] Add PDF upload endpoint
+- [x] Add question-answering API
+- [x] Support multiple uploaded documents
+- [x] Add page-level citations and source references
 - [ ] Improve document chunking and retrieval
 - [ ] Add conversational memory
-- [ ] Build a frontend interface
+- [x] Build a frontend interface
 - [ ] Add web search and calculator tools
 - [ ] Convert the RAG pipeline into a tool-using AI Agent
 - [ ] Deploy the application
